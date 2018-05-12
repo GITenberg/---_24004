@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26159
     wikipedia: http://en.wikipedia.org/wiki/Guan_Hanqing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24004#---
 gutenberg_issued: '2007-12-24'
 gutenberg_type: Text
 identifiers:
